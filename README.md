@@ -1,2 +1,2 @@
-# Newsletter-Nike-r-plica-
+# Newsletter-Nike-replica-
 Newsletter responsive HTML Y CSS
