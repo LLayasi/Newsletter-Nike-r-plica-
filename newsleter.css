@@ -187,3 +187,16 @@ html{
     width: 30px;  /* Tamaño del icono */
     height: 30px; /* Tamaño del icono */
 }
+
+@media (max-width: 600px) {
+    .contenedor-imagenes {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .contenido{
+      flex: 1;
+      max-width: 100%;
+    }
+}
+ 
